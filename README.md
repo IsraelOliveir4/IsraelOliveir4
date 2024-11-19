@@ -1,5 +1,4 @@
-# IsraelOliveir4
-Olá, me chamo Israel! Sou Estudante de Desenvolvimento FullStack, com formação em andamento no curso de Analise e Desenvolvimento de Sistemas. Tenho Experiencia academica com HTML, CSS, GitHub, JavaScript(ES6), NodeJS e Consumo de APIs. Em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no que eu faço!
+# Olá, me chamo Israel!
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/IsraelOliveir4)
@@ -21,3 +20,5 @@ Olá, me chamo Israel! Sou Estudante de Desenvolvimento FullStack, com formaçã
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=israeloliveir4&repo=dio-lab-open-source&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)](https://github.com/IsraelOliveir4/dio-lab-open-source)
+
+![Snake animation](https://github.com/IsraelOliveir4/IsraelOliveir4/blob/output/github-snake-dark.svg)
