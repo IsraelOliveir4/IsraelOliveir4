@@ -21,4 +21,4 @@
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=israeloliveir4&repo=dio-lab-open-source&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)](https://github.com/IsraelOliveir4/dio-lab-open-source)
 
-![Snake animation](https://github.com/IsraelOliveir4/IsraelOliveir4/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/IsraelOliveir4/IsraelOliveir4/blob/main/.github/github-snake-dark.svg)
